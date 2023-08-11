@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.wrapTeam {
+  display: flex;
+  justify-content: center;
+}
+
+.formsWrap {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
